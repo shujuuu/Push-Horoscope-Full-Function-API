@@ -1,0 +1,14 @@
+{
+  "name": "push-horoscope-fullapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^48.0.0"
+  }
+}
